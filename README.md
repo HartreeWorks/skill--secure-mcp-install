@@ -11,7 +11,7 @@ See [SKILL.md](./SKILL.md) for complete documentation and usage instructions.
 To use this skill with Claude Code, clone it into your skills directory:
 
 ```bash
-git clone https://github.com/HartreeWorks/claude-skill--secure-mcp-install.git ~/.claude/skills/secure-mcp-install
+git clone https://github.com/HartreeWorks/skill--secure-mcp-install.git ~/.claude/skills/secure-mcp-install
 ```
 
 Then restart Claude Code to load the skill.
