@@ -8,10 +8,10 @@ See [SKILL.md](./SKILL.md) for complete documentation and usage instructions.
 
 ## Installation
 
-To use this skill with Claude Code, clone it into your skills directory:
+Paste this repository URL into Claude Code and ask Claude to install it.
 
-```bash
-git clone https://github.com/HartreeWorks/skill--secure-mcp-install.git ~/.claude/skills/secure-mcp-install
-```
+## About
 
-Then restart Claude Code to load the skill.
+Created by [Peter Hartree](https://x.com/peterhartree). For updates, follow [AI Wow](https://wow.pjh.is), my AI uplift newsletter.
+
+Find more skills at [HartreeWorks/skills](https://github.com/HartreeWorks/skills).
