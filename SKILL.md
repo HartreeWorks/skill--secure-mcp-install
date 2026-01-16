@@ -1,6 +1,6 @@
 ---
 name: secure-mcp-install
-description: This skill should be used when the user asks to "install an MCP server", "add an MCP server", "set up an MCP server", "install the Slack MCP", "install MCP from GitHub", "audit an MCP server", "check if an MCP server is safe", or mentions installing any third-party MCP server. Provides a security-focused workflow to clone, audit, and install MCP servers at pinned commits with automatic updates disabled.
+description: This skill should be used when the user asks to install or audit an MCP server, especially from third-party sources. Security-focused: clones at pinned commits, runs security scans.
 ---
 
 # Secure MCP Server Installation
