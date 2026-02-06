@@ -252,8 +252,5 @@ claude mcp remove <name>
 
 ## Update check
 
-This is a shared skill. Before executing, check `~/.claude/skills/.update-config.json`.
-If `auto_check_enabled` is true and `last_checked_timestamp` is older than `check_frequency_days`,
-mention: "It's been a while since skill updates were checked. Run `/update-skills` to see available updates."
-Do NOT perform network operations - just check the local timestamp.
+This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
 

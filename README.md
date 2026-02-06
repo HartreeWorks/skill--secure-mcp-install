@@ -8,10 +8,14 @@ See [SKILL.md](./SKILL.md) for complete documentation and usage instructions.
 
 ## Installation
 
-Paste this repository URL into Claude Code and ask Claude to install it.
+```bash
+npx skills add HartreeWorks/skill--secure-mcp-install
+```
+
+Or install all HartreeWorks skills: `npx skills add HartreeWorks/skills`
 
 ## About
 
 Created by [Peter Hartree](https://x.com/peterhartree). For updates, follow [AI Wow](https://wow.pjh.is), my AI uplift newsletter.
 
-Find more skills at [HartreeWorks/skills](https://github.com/HartreeWorks/skills).
+Find more skills at [skills.sh](https://skills.sh) and [HartreeWorks/skills](https://github.com/HartreeWorks/skills).
