@@ -248,9 +248,3 @@ claude mcp remove <name>
 
 ### Scripts
 - **`scripts/audit-mcp-server.sh`** - Automated security scanner
-
-
-## Update check
-
-This skill is managed by [skills.sh](https://skills.sh). To check for updates, run `npx skills update`.
-
