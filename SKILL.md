@@ -1,6 +1,6 @@
 ---
 name: secure-mcp-install
-description: This skill should be used when the user asks to install or audit an MCP server, especially from third-party sources. Security-focused: clones at pinned commits, runs security scans.
+description: 'This skill should be used when the user asks to install or audit an MCP server, especially from third-party sources. Security-focused: clones at pinned commits, runs security scans.'
 ---
 
 # Secure MCP Server Installation
