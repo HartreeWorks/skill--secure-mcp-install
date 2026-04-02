@@ -1,1 +1,4 @@
 .DS_Store
+
+# Private local data (not published)
+data/
